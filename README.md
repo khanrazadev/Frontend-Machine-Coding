@@ -20,7 +20,7 @@ Contributions are welcome! If you have alternative solutions, improvements, or a
 For any inquiries or suggestions, please feel free to reach out via:
 
 - [Linkedin](https://www.linkedin.com/in/khanrazadev)
-- [Twitter handle](https://twitter.com/khanrazadev)
+- [X - (Twitter handle)](https://twitter.com/khanrazadev)
 
 Don't forget to give us a star ⭐️ if you find the solutions helpful!
 
