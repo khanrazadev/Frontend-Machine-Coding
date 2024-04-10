@@ -2,8 +2,6 @@
 
 This repository contains a curated list of folders with questions and solutions commonly used in frontend machine coding interviews. Each solution follows best practices and is implemented using React or vanilla JavaScript. This repository is open source, and contributions are welcome.
 
-## Curated List of Folders:
-
 
 
 ## Instructions
