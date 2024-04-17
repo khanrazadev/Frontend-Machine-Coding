@@ -1,7 +1,12 @@
 import "./App.css";
+import Notes from "./components/Notes";
 
 function App() {
-  return <div>Hello world</div>;
+  return (
+    <div>
+      <Notes />
+    </div>
+  );
 }
 
 export default App;
