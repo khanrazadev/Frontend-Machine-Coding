@@ -2,7 +2,7 @@
 
 ---
 
-This solution demonstrates effective pagination implementation, a crucial feature for managing large datasets in web applications. It incorporates a custom hook named usePagination to handle pagination logic efficiently. Below, we outline the key aspects of this implementation without relying on specific numerical values, focusing instead on principles and strategies. 🌟
+This solution demonstrates effective pagination implementation, a crucial feature for managing large datasets in web applications. It incorporates a custom hook named useFetchData to handle pagination logic efficiently. Below, we outline the key aspects of this implementation without relying on specific numerical values, focusing instead on principles and strategies. 🌟
 
  
 
